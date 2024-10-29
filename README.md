@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/kartik-barman?label=Followers&style=social)](https://github.com/kartik-barman)
 [![GitHub stars](https://img.shields.io/github/stars/kartik-barman?label=Profile%20Stars&style=social)](https://github.com/kartik-barman)
 
-## 🌟 I'm a Web Developer and Machine Learning Enthusiast
+## 🌟 I'm a Web Developer
 
 ### Skills:
 
