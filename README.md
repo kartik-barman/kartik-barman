@@ -1,6 +1,6 @@
 # Hi, I'm Kartik Barman 👋
 
-![Profile Banner](https://your-image-url.com/banner.png) <!-- Replace with your own banner image -->
+![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQGQuh8IT8qIyg/profile-displaybackgroundimage-shrink_350_1400/B56ZUIJp0vHoAY-/0/1739598504528?e=1746057600&v=beta&t=0RklrsJwzJqOVKSAA6Kfl1zw-GbGxaPc2S9BzdGsnZI) <!-- Replace with your own banner image -->
 
 [![GitHub followers](https://img.shields.io/github/followers/kartik-barman?label=Followers&style=social)](https://github.com/kartik-barman)
 [![GitHub stars](https://img.shields.io/github/stars/kartik-barman?label=Profile%20Stars&style=social)](https://github.com/kartik-barman)
